@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/react-cocktails-online/static/css/main.2774ebe8.chunk.css",
+    "main.js": "/react-cocktails-online/static/js/main.f00fb580.chunk.js",
+    "main.js.map": "/react-cocktails-online/static/js/main.f00fb580.chunk.js.map",
+    "runtime-main.js": "/react-cocktails-online/static/js/runtime-main.ab589115.js",
+    "runtime-main.js.map": "/react-cocktails-online/static/js/runtime-main.ab589115.js.map",
+    "static/css/2.d45d6843.chunk.css": "/react-cocktails-online/static/css/2.d45d6843.chunk.css",
+    "static/js/2.6d8b7ef3.chunk.js": "/react-cocktails-online/static/js/2.6d8b7ef3.chunk.js",
+    "static/js/2.6d8b7ef3.chunk.js.map": "/react-cocktails-online/static/js/2.6d8b7ef3.chunk.js.map",
+    "static/js/3.4d7c511e.chunk.js": "/react-cocktails-online/static/js/3.4d7c511e.chunk.js",
+    "static/js/3.4d7c511e.chunk.js.map": "/react-cocktails-online/static/js/3.4d7c511e.chunk.js.map",
+    "index.html": "/react-cocktails-online/index.html",
+    "static/css/2.d45d6843.chunk.css.map": "/react-cocktails-online/static/css/2.d45d6843.chunk.css.map",
+    "static/css/main.2774ebe8.chunk.css.map": "/react-cocktails-online/static/css/main.2774ebe8.chunk.css.map",
+    "static/js/2.6d8b7ef3.chunk.js.LICENSE.txt": "/react-cocktails-online/static/js/2.6d8b7ef3.chunk.js.LICENSE.txt",
+    "static/media/logo.f43a2245.svg": "/react-cocktails-online/static/media/logo.f43a2245.svg",
+    "static/media/index.css": "/react-cocktails-online/static/media/prime.be19326a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ab589115.js",
+    "static/css/2.d45d6843.chunk.css",
+    "static/js/2.6d8b7ef3.chunk.js",
+    "static/css/main.2774ebe8.chunk.css",
+    "static/js/main.f00fb580.chunk.js"
+  ]
+}
